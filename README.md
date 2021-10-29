@@ -19,4 +19,5 @@ Based on what I discover in this dataset,
 - With the time series distribution, it shows the number of crimes do not decrease in these years. 
 
 ## Suggestions for Travelers. 
-If you would like to travel SF, I would suggest that you visit in February which has the least crime of the year, also do not visit the north eastern part of SF to reduce the incidence of criminals.   
+- If you would like to travel SF, I would suggest that you visit in February which has the least crime of the year, also do not visit the north eastern part of SF to reduce the incidence of criminals.   
+- If you plan to visit downtown commerical area, I suggest you to visit at the morning instead of afternoon since criminal rate is lower in morning than afternoon.  
