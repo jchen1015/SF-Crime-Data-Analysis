@@ -13,9 +13,9 @@ In this notebook, I use Spark SQL an python for big data online analytical proce
 ## Discover in SF Crime Dataset
 
 Based on what I discover in this dataset, 
-- The most crime category is larceny/theft which is more than 478 thousand  
-- The most dangarous district in SF is the Southern district   
-- Accounting to the spatial distribution, we see that most of the crimes are at the north eastern part of SF and now this area has expanded a bit toward the weat and south part of SF  
+- The most crime category is larceny/theft which is more than 478 thousand.  
+- The most dangarous district in SF is the Southern district.   
+- Accounting to the spatial distribution, we see that most of the crimes are at the north eastern part of SF and now this area has expanded a bit toward the weat and south part of SF.  
 - With the time series distribution, it shows the number of crimes do not decrease in these years. 
 
 ## Suggestions for Travelers. 
