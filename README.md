@@ -7,7 +7,7 @@ In this notebook, I use Spark SQL an python for big data online analytical proce
 ## Steps of OLAP
 - Count the number of crimes for different category and visulize the result
 - Analyze the number of crime in each month from 2003 to 2017 (the data does not cover whole year of 2018)
-- Travel Suggestion with respect to the hour in certian day
+- Travel Suggestions with respect to the hour in certian day
 - Count the number of crimes for different district and apply spatial distribtion with longitude and latitude information to visualize the result
 
 ## Discover in SF Crime Dataset
