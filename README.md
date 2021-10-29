@@ -1,4 +1,4 @@
-# SF-Crime-Data-Analysis
+# San-Francisco-Crime-Data-Analysis
 
 In this San Francisco crime data analysis from 2013 to 2018, I generated insight from data in San Francisco Police website which including category, date, districts, and location to help us identify the specific place in Seattle by using Spark, Spark SQL, and Pandas. In the process of data visualization, I used python package Matplotlib and Seaborn. In this project, I realized that the speed of loading dataset and data manipulation using Spark is much faster than using Python Pandas.  
 
